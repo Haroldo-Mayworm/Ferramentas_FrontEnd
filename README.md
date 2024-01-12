@@ -2,7 +2,7 @@
 
 > ◾ Sites para desenvolvedor front-end
 
-- [Text Pop 3D](https://textpop3d.web.app/) - Cria efeitos de texto 3D
+- [TextStudio](https://pt.textstudio.com) - Cria efeitos de texto 3D
 - [Shape Dividers](https://shapedividers.com) - Gera divisores de formas verticais, responsivos, e animados facilmente com este gerador de divisores de formas SVG
 - [Couleur](https://couleur.io) - Uma ferramenta de cores simples para ajudá-lo a encontrar uma boa paleta de cores para seu projeto da web)
 - [Baseline CSS Filters](https://baseline.is/tools/css-photo-filters/) - 36 Belos filtros de fotos, com edição simples e CSS para copiar)
@@ -24,7 +24,7 @@
 - [Flexbox Defense](http://www.flexboxdefense.com/) - Aprenda flexbox com um game
 - [100 Dias de CSS](https://100dayscss.com) - 100 Desafios de CSS
 - [CSS Battle](https://cssbattle.dev/) - Batalhas temporárias de CSS. IDE integrada
-- [CSS Tricks](https://css-tricks.com/guides/) - Site para treinar
+- [CSS Tricks](https://css-tricks.com/guides/) - Site para aprender
 - [CSS Hell](https://csshell.dev/) - Coleção de erros comuns de CSS e como corrigi-los
 
 > ◾ Geradores de CSS
@@ -32,22 +32,18 @@
 - [Neumorphism](https://neumorphism.io/) - Tendência aplicação border-radius
 - [Fancy Border-Radius](https://9elements.github.io/fancy-border-radius/) - Gerador de formas com border-radius no CSS
 - [WAIT! Animate](https://waitanimate.wstone.io) - Gerador de animações de CSS
-- [Best CSS Button Generator](https://www.bestcssbuttongenerator.com) - Gerador de butões do CSS
+- [Best CSS Button Generator](https://www.bestcssbuttongenerator.com) - Gerador de botões do CSS
 - [HTML CSS JS Generator](https://html-css-js.com/css/generator/) - Gerador de HTML/CSS/JS
 - [BennettFeely](https://bennettfeely.com/clippy/) - Criador de clip-path
 
 > ◾ Ferramentas de desenvolvimento
 
-- [Internxt](https://internxt.com/) - Internxt Drive é um armazenamento de arquivos de conhecimento zero serviço baseado na melhor privacidade e segurança da classe
 - [Motion](https://motion.dev/) - Uma nova biblioteca de animação, construída na API Web Animations para o menor tamanho de arquivo e o desempenho mais rápido.
-- [Hokusai](https://hokusai.app/) - Conteúdo sobre NFT's
-- [Hidden Tools](https://hiddentools.dev) - Ampla coleção de ferramentas feitas pela comunidade disponiveís para uso
 - [Dev Hints](https://devhints.io) - Coleção de cheatsheets
 - [Bundlephobia](https://bundlephobia.com) - Descubra o custo de adicionar um pacote npm ao seu pacote
 - [Refactoring Guru](https://refactoring.guru/pt-br/design-patterns) - Padrões de projetos "Design patterns"
 - [DevDocs](https://devdocs.io/) - DevDocs combina várias documentações de API em uma interface rápida, organizada e pesquisável.
 - [HTML Validator](https://www.freeformatter.com/html-validator.html) - Validação de arquivo HTML
-- [HTML 5 Test](https://html5test.com/index.html) - Testa arquivos HTML5
 - [Image Slide Maker](https://imageslidermaker.com/v2) - Ferramenta de geração gratuita do Image Slider Maker
 - [.NET Fiddle](https://dotnetfiddle.net/) - Codifique e compartilhe projetos C# online
 - [1PageRank](http://www.1pagerank.com/) - Rankeie seu site nos mecanismos de buscas e aprenda com a concorrência
@@ -57,7 +53,6 @@
 - [Can I email...](https://www.caniemail.com/) - Descubra o que do HTML e CSS pode ser usado em estruturas de e-mail
 - [Can I use...](https://caniuse.com/) - Descubra se você pode usar determinadas tecnologias web
 - [CloudFlare](https://www.cloudflare.com/pt-br/) - CDN grátis
-- [CMDER](https://cmder.net/) - Linha de comando simples, consegue rodar comands bash e Shell, alternativa ao Hyper
 - [CodePen](https://codepen.io/) - Rede social de desenvolvedores front-end
 - [CodeSandbox](https://codesandbox.io/) - Caixa de área para desenvolvedores web
 - [Connection Strings](https://www.connectionstrings.com/) - Site com strings de conexão para diversas plataformas
@@ -68,12 +63,10 @@
 - [docsify](https://docsify.js.org/#/) - Crie docs incríveis de projetos
 - [EasyForms](https://easyforms.vercel.app/) - API open source que permite criação formulários de contato com HTML puro
 - [Editor.md](https://pandao.github.io/editor.md/en.html) - Editor Markdown online e open source
-- [ES6console](https://es6console.com/) - Compilador de JS para Ecmascript
 - [Firebase](https://firebase.google.com/?hl=pt-BR) - Desenvolva aplicativos mobile e web incríveis este serviço da Google
 - [Firefox Developer Edition](https://www.mozilla.org/pt-BR/firefox/developer/) - Navegador web para desenvolvedores web
 - [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl?hl=pt-BR) - Capture páginas inteiras com uma extensão para Chrome
 - [generatedata](http://www.generatedata.com/) - Gerador de dados para testes
-- [Git Command Explorer](https://gitexplorer.com/) - Encontre os comandos certos que você precisa sem vasculhar a web
 - [GitHub Gist](https://gist.github.com/) - Faça pequenas anotações e pequenos códigos no GitHub Gist
 - [Google Transparency Report](https://transparencyreport.google.com/safe-browsing/search) - Verificar segurança de um site
 - [Grader](https://website.grader.com/) - Avaliação de site
