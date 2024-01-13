@@ -89,10 +89,8 @@
 - [NPM HTTP-Server](https://www.npmjs.com/package/http-server) - Rode um servidor local com um pacote npm
 - [Password Generator](https://danieldeev.github.io/password-generator/) - Um gerador de senhas simples com foco na segurança
 - [Online C Compiler](https://www.onlinegdb.com/online_c_compiler) - Ferramenta para compilar C online
-- [React Dev Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) - Ferramenta para debug do ReactJS
+- [React Dev Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) - Extenção para debug do ReactJS
 - [React Hook Form](https://react-hook-form.com/) - Valide seus formulários de projetos que utilizam React ou React Native
-- [RelaX](http://dbis-uibk.github.io/relax/index.htm) - Crie expressões algébricas relacionais de consultas
-- [Responsive](http://www.codeorama.com/responsive/) - Teste a responsividade do seu site
 - [Shields.io](https://shields.io/) - Gerador de badges para markdown
 - [SSL Server Test](https://www.ssllabs.com/ssltest/) - Testar SSL de sites
 - [StreamYard](https://streamyard.com/) - O StreamYard é um estúdio de transmissões ao vivo no seu navegador
@@ -113,7 +111,6 @@
 - [Wedsites](https://wedsites.com/) - Liste suas atividades e acompanhe seu progresso
 - [WordPress](https://wordpress.org/) - Criação de blogs
 - [XML Sitemaps](https://www.xml-sitemaps.com/) - Criador de sitemaps.xml
-- [Minimamente](https://www.minimamente.com/project/magic/) - Efeitos para utilizar no CSS
 - [Hamburgers](https://jonsuh.com/hamburgers/) - Menu de hamburgers para utilizar em CSS
 - [Hover Effects](https://ianlunn.github.io/Hover/) - Hover effects para utilizar no CSS
 
