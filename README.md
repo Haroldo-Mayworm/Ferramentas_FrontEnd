@@ -81,6 +81,7 @@
 - [Lorem Ipsum](https://br.lipsum.com/) - Gerador de texto fictício
 - [Mussum Ipsum](https://mussumipsum.com/) - Gerador de texto fictício
 - [Shields.io](https://shields.io/) - Gerador de badges para markdown
+- [Link Lock](https://jstrieb.github.io/link-lock/create/) - Adicionar uma senha para acessar sua url
 - [Password Generator](https://danieldeev.github.io/password-generator/) - Um gerador de senhas simples com foco na segurança
 - [Debuggex: Online visual regex tester. JavaScript, Python, and PCRE](https://www.debuggex.com) - Construa e teste expressões regulares
 - [Mapbox](https://www.mapbox.com/) - Mapas e localização para desenvolvedores
