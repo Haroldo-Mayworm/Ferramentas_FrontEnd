@@ -4,10 +4,10 @@
 
 - [TextStudio](https://pt.textstudio.com) - Cria efeitos de texto 3D
 - [Shape Dividers](https://shapedividers.com) - Gera divisores de formas verticais, responsivos, e animados facilmente com este gerador de divisores de formas SVG
-- [Couleur](https://couleur.io) - Uma ferramenta de cores simples para ajudá-lo a encontrar uma boa paleta de cores para seu projeto da web)
-- [Baseline CSS Filters](https://baseline.is/tools/css-photo-filters/) - 36 Belos filtros de fotos, com edição simples e CSS para copiar)
-- [UI Deck](https://uideck.com) - Modelo de página de destino HTML gratuitos e premium, temas de bootstrap, modelos de React, modelos de Tailwind, modelos de site HTML, e kits de interface de usúario)
-- [Naevner](https://naevner.com) - Descrição de cores em linguagem natural, gerador de códigos em cores hexadecimais)
+- [Couleur](https://couleur.io) - Uma ferramenta de cores simples para ajudá-lo a encontrar uma boa paleta de cores para seu projeto da web
+- [Baseline CSS Filters](https://baseline.is/tools/css-photo-filters/) - 36 Belos filtros de fotos, com edição simples e CSS para copiar
+- [UI Deck](https://uideck.com) - Modelo de página de destino HTML gratuitos e premium, temas de bootstrap, modelos de React, modelos de Tailwind, modelos de site HTML, e kits de interface de usuário
+- [Naevner](https://naevner.com) - Descrição de cores em linguagem natural, gerador de códigos em cores hexadecimais
 
 > ◾ Templates HTML gratuitos
 
@@ -41,78 +41,78 @@
 - [Motion](https://motion.dev/) - Uma nova biblioteca de animação, construída na API Web Animations para o menor tamanho de arquivo e o desempenho mais rápido.
 - [Dev Hints](https://devhints.io) - Coleção de cheatsheets
 - [Bundlephobia](https://bundlephobia.com) - Descubra o custo de adicionar um pacote npm ao seu pacote
-- [Refactoring Guru](https://refactoring.guru/pt-br/design-patterns) - Padrões de projetos "Design patterns"
 - [DevDocs](https://devdocs.io/) - DevDocs combina várias documentações de API em uma interface rápida, organizada e pesquisável.
-- [HTML Validator](https://www.freeformatter.com/html-validator.html) - Validação de arquivo HTML
-- [Image Slide Maker](https://imageslidermaker.com/v2) - Ferramenta de geração gratuita do Image Slider Maker
-- [.NET Fiddle](https://dotnetfiddle.net/) - Codifique e compartilhe projetos C# online
-- [1PageRank](http://www.1pagerank.com/) - Rankeie seu site nos mecanismos de buscas e aprenda com a concorrência
 - [Any API](https://any-api.com/) - Diretório gratuito com APIs públicas
-- [Autoprefixer CSS](http://autoprefixer.github.io/) - Transpile código CSS atual para código CSS com maior cobertura de navegadores antigos
-- [Browser diet](https://browserdiet.com/pt/) - Guia de performance para desenvolvimento web
-- [Can I email...](https://www.caniemail.com/) - Descubra o que do HTML e CSS pode ser usado em estruturas de e-mail
-- [Can I use...](https://caniuse.com/) - Descubra se você pode usar determinadas tecnologias web
 - [CloudFlare](https://www.cloudflare.com/pt-br/) - CDN grátis
-- [CodePen](https://codepen.io/) - Rede social de desenvolvedores front-end
-- [CodeSandbox](https://codesandbox.io/) - Caixa de área para desenvolvedores web
 - [Connection Strings](https://www.connectionstrings.com/) - Site com strings de conexão para diversas plataformas
-- [CSS Formatter](https://www.cleancss.com/css-beautify/) - Retire a minificação e formate o código CSS
-- [CSS Minifier](https://cssminifier.com/) - Conversor de código CSS para CSS minificado
-- [CSS W3.org](https://jigsaw.w3.org/css-validator/) - Validar CSS
-- [Debuggex: Online visual regex tester. JavaScript, Python, and PCRE](https://www.debuggex.com) - Construa e teste expressões regulares
-- [docsify](https://docsify.js.org/#/) - Crie docs incríveis de projetos
-- [EasyForms](https://easyforms.vercel.app/) - API open source que permite criação formulários de contato com HTML puro
-- [Editor.md](https://pandao.github.io/editor.md/en.html) - Editor Markdown online e open source
-- [Firebase](https://firebase.google.com/?hl=pt-BR) - Desenvolva aplicativos mobile e web incríveis este serviço da Google
-- [Firefox Developer Edition](https://www.mozilla.org/pt-BR/firefox/developer/) - Navegador web para desenvolvedores web
-- [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl?hl=pt-BR) - Capture páginas inteiras com uma extensão para Chrome
-- [generatedata](http://www.generatedata.com/) - Gerador de dados para testes
-- [GitHub Gist](https://gist.github.com/) - Faça pequenas anotações e pequenos códigos no GitHub Gist
-- [Google Transparency Report](https://transparencyreport.google.com/safe-browsing/search) - Verificar segurança de um site
-- [Grader](https://website.grader.com/) - Avaliação de site
-- [How to Center in CSS](http://howtocenterincss.com/) - Gerador de código para divs ou textos que necessitam de centralização
 - [Hyper](https://hyper.is/) - Linha de comando simples, útil e gratuito
 - [Joomla](https://www.joomla.org/) - CMS gratuita
+- [NPM HTTP-Server](https://www.npmjs.com/package/http-server) - Rode um servidor local com um pacote npm
+- [SSL Server Test](https://www.ssllabs.com/ssltest/) - Testar SSL de sites
+- [Swagger](https://swagger.io/) - Ferramenta para projetar, construir, documentar e usar serviços da Web RESTful
+- [Tabela ASCII](https://web.fe.up.pt/~ee96100/projecto/Tabela%20ascii.htm) - Tabela completa com caracteres ASCII
+- [Telegram](https://telegram.org/) - Mensageiro criptografado
+- [Refactoring Guru](https://refactoring.guru/pt-br/design-patterns) - Padrões de projetos "Design patterns"
+- [docsify](https://docsify.js.org/#/) - Crie docs incríveis de projetos
+- [W3.org](https://validator.w3.org/) - Validar HTML
+- [HTML Validator](https://www.freeformatter.com/html-validator.html) - Validação de arquivo HTML
+- [Image Slide Maker](https://imageslidermaker.com/v2) - Ferramenta de geração gratuita do Image Slider Maker
+- [EasyForms](https://easyforms.vercel.app/) - API open source que permite criação formulários de contato com HTML puro
+- [How to Center in CSS](http://howtocenterincss.com/) - Gerador de código para divs ou textos que necessitam de centralização
 - [JS Bin](https://jsbin.com/) - Codifique e compartilhe projetos HTML, CSS e JS
+- [Liveweave](https://liveweave.com/) - Codifique projetos HTML, CSS e JS
 - [JSCompress](https://jscompress.com/) - Conversor de código JS para JS minificado
 - [JSON Editor Online](https://jsoneditoronline.org/) - Ferramenta para visualizar e editar arquivos JSON
 - [JSFiddle](https://jsfiddle.net/) - Codifique projetos JS online
 - [JSONLint](https://jsonlint.com/) - Ferramenta para validar seu JSON
 - [JSON Generator](https://app.json-generator.com/) - Ferramenta para gerar JSON com base em template
-- [KeyCDN Tools](https://tools.keycdn.com/) - Faça uma análise das suas aplicações web
-- [Liveweave](https://liveweave.com/) - Codifique projetos HTML, CSS e JS
-- [Lorem Ipsum](https://br.lipsum.com/) - Gerador de texto fictício
-- [Mapbox](https://www.mapbox.com/) - Mapas e localização para desenvolvedores
-- [Memcached](https://memcached.org/) - Melhore o desempenho de seu website com cache
-- [Mockaroo](https://www.mockaroo.com/) - Gerador de dados para testes
-- [Mussum Ipsum](https://mussumipsum.com/) - Gerador de texto fictício
-- [NPM HTTP-Server](https://www.npmjs.com/package/http-server) - Rode um servidor local com um pacote npm
-- [Password Generator](https://danieldeev.github.io/password-generator/) - Um gerador de senhas simples com foco na segurança
-- [Online C Compiler](https://www.onlinegdb.com/online_c_compiler) - Ferramenta para compilar C online
-- [React Dev Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) - Extenção para debug do ReactJS
-- [React Hook Form](https://react-hook-form.com/) - Valide seus formulários de projetos que utilizam React ou React Native
-- [Shields.io](https://shields.io/) - Gerador de badges para markdown
-- [SSL Server Test](https://www.ssllabs.com/ssltest/) - Testar SSL de sites
-- [StreamYard](https://streamyard.com/) - O StreamYard é um estúdio de transmissões ao vivo no seu navegador
-- [Swagger](https://swagger.io/) - Ferramenta para projetar, construir, documentar e usar serviços da Web RESTful
-- [Tabela ASCII](https://web.fe.up.pt/~ee96100/projecto/Tabela%20ascii.htm) - Tabela completa com caracteres ASCII
-- [Telegram](https://telegram.org/) - Mensageiro criptografado
-- [TinyJPG](https://tinyjpg.com/) - Comprima imagem do formato JPG
-- [TinyPNG](https://tinypng.com/) - Comprima imagem do formato PNG
-- [Creately](https://creately.com/) - Crie e altere lindos diagramas em tempo real com a sua equipe
-- [Carbon](https://carbon.now.sh/) - Crie Snippets de codigo clean e bonitos
-- [DbDiagram](https://dbdiagram.io/home) - Crie elegrantes diagramas de banco de dados e gere script ddl
-- [SqlDesigner](https://ondras.zarovi.cz/sql/demo/) - Crie Diagramas de banco de dados de maneira rapida e gere script ddl
-- [W3.org](https://validator.w3.org/) - Validar HTML
-- [WakaTime](https://wakatime.com/) - Gerencie seu tempo de desenvolvimento
-- [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=pt-BR) - Extensão para Chrome com multi-funções
-- [Web.dev](https://web.dev/) - Testar website (criado pela Google)
-- [WebPageTest](https://www.webpagetest.org/) - Testar perfomance de site
-- [Wedsites](https://wedsites.com/) - Liste suas atividades e acompanhe seu progresso
-- [WordPress](https://wordpress.org/) - Criação de blogs
-- [XML Sitemaps](https://www.xml-sitemaps.com/) - Criador de sitemaps.xml
+- [CSS W3.org](https://jigsaw.w3.org/css-validator/) - Validar CSS
+- [Autoprefixer CSS](http://autoprefixer.github.io/) - Transpile código CSS atual para código CSS com maior cobertura de navegadores antigos
+- [CSS Formatter](https://www.cleancss.com/css-beautify/) - Retire a minificação e formate o código CSS
+- [CSS Minifier](https://cssminifier.com/) - Conversor de código CSS para CSS minificado
 - [Hamburgers](https://jonsuh.com/hamburgers/) - Menu de hamburgers para utilizar em CSS
 - [Hover Effects](https://ianlunn.github.io/Hover/) - Hover effects para utilizar no CSS
+- [Can I use...](https://caniuse.com/) - Descubra se você pode usar determinadas tecnologias web
+- [Can I email...](https://www.caniemail.com/) - Descubra o que do HTML e CSS pode ser usado em estruturas de e-mail
+- [Online C Compiler](https://www.onlinegdb.com/online_c_compiler) - Ferramenta para compilar C online
+- [.NET Fiddle](https://dotnetfiddle.net/) - Codifique e compartilhe projetos C# online
+- [generatedata](http://www.generatedata.com/) - Gerador de dados para testes
+- [Mockaroo](https://www.mockaroo.com/) - Gerador de dados para testes
+- [Lorem Ipsum](https://br.lipsum.com/) - Gerador de texto fictício
+- [Mussum Ipsum](https://mussumipsum.com/) - Gerador de texto fictício
+- [Shields.io](https://shields.io/) - Gerador de badges para markdown
+- [Password Generator](https://danieldeev.github.io/password-generator/) - Um gerador de senhas simples com foco na segurança
+- [Debuggex: Online visual regex tester. JavaScript, Python, and PCRE](https://www.debuggex.com) - Construa e teste expressões regulares
+- [Mapbox](https://www.mapbox.com/) - Mapas e localização para desenvolvedores
+- [Firebase](https://firebase.google.com/?hl=pt-BR) - Desenvolva aplicativos mobile e web incríveis este serviço da Google
+- [CodeSandbox](https://codesandbox.io/) - Caixa de área para desenvolvedores web
+- [CodePen](https://codepen.io/) - Rede social de desenvolvedores front-end
+- [GitHub Gist](https://gist.github.com/) - Faça pequenas anotações e pequenos códigos no GitHub Gist
+- [React Dev Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) - Extenção para debug do ReactJS
+- [React Hook Form](https://react-hook-form.com/) - Valide seus formulários de projetos que utilizam React ou React Native
+- [Creately](https://creately.com/) - Crie e altere lindos diagramas em tempo real com a sua equipe
+- [Carbon](https://carbon.now.sh/) - Crie Snippets de codigo clean e bonitos
+- [WordPress](https://wordpress.org/) - Criação de blogs
+- [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl?hl=pt-BR) - Capture páginas inteiras com uma extensão para Chrome
+- [1PageRank](http://www.1pagerank.com/) - Rankeie seu site nos mecanismos de buscas e aprenda com a concorrência
+- [Browser diet](https://browserdiet.com/pt/) - Guia de performance para desenvolvimento web
+- [Google Transparency Report](https://transparencyreport.google.com/safe-browsing/search) - Verificar segurança de um site
+- [Grader](https://website.grader.com/) - Avaliação de site
+- [KeyCDN Tools](https://tools.keycdn.com/) - Faça uma análise das suas aplicações web
+- [Memcached](https://memcached.org/) - Melhore o desempenho de seu website com cache
+- [Web.dev](https://web.dev/) - Testar website (criado pela Google)
+- [WebPageTest](https://www.webpagetest.org/) - Testar performance de site
+- [Editor.md](https://pandao.github.io/editor.md/en.html) - Editor Markdown online e open source
+- [WakaTime](https://wakatime.com/) - Gerencie seu tempo de desenvolvimento
+- [Wedsites](https://wedsites.com/) - Liste suas atividades e acompanhe seu progresso
+- [Firefox Developer Edition](https://www.mozilla.org/pt-BR/firefox/developer/) - Navegador web para desenvolvedores web
+- [StreamYard](https://streamyard.com/) - O StreamYard é um estúdio de transmissões ao vivo no seu navegador
+- [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=pt-BR) - Extensão para Chrome com multi-funções
+- [TinyJPG](https://tinyjpg.com/) - Comprima imagem do formato JPG
+- [TinyPNG](https://tinypng.com/) - Comprima imagem do formato PNG
+- [DbDiagram](https://dbdiagram.io/home) - Crie elegrantes diagramas de banco de dados e gere script ddl
+- [SqlDesigner](https://ondras.zarovi.cz/sql/demo/) - Crie Diagramas de banco de dados de maneira rapida e gere script ddl
+- [XML Sitemaps](https://www.xml-sitemaps.com/) - Criador de sitemaps.xml
 
 > ◾ Design front-end
 
