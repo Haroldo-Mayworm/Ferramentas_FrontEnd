@@ -99,6 +99,7 @@
 - [Browser diet](https://browserdiet.com/pt/) - Guia de performance para desenvolvimento web
 - [Google Transparency Report](https://transparencyreport.google.com/safe-browsing/search) - Verificar segurança de um site
 - [Grader](https://website.grader.com/) - Avaliação de site
+- [GTmetrix](https://gtmetrix.com/) - Mede o desempenho do site
 - [KeyCDN Tools](https://tools.keycdn.com/) - Faça uma análise das suas aplicações web
 - [Memcached](https://memcached.org/) - Melhore o desempenho de seu website com cache
 - [Web.dev](https://web.dev/) - Testar website (criado pela Google)
