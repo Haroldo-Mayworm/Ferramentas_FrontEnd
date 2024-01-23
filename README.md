@@ -125,7 +125,6 @@
 - [Bulma CSS](https://bulma.io/) - Estrutura CSS gratuita baseada no Flexbox
 - [Canva](https://www.canva.com/) - Ferramenta de design online
 - [Chart.js](https://www.chartjs.org/) - Biblioteca JavaScript de criação de gráficos
-- [Colors and Fonts](https://www.colorsandfonts.com/) - Apresenta paletas de cores e tipografia
 - [Coolors](https://coolors.co/) - Palhetas de cores e monte a sua própria
 - [Colors lol](https://colors.lol) - Repositório de paletas de cores
 - [Cruip](https://cruip.com/) - Recursos de templates
@@ -138,9 +137,11 @@
 - [Fancy Border-Radius](https://9elements.github.io/fancy-border-radius/) - Gerador de formas com border-radius no CSS
 - [Figma](https://www.figma.com/) - Desenhe projetos online de apps, softwares e websites
 - [Flatui Color Picker](http://www.flatuicolorpicker.com/) - Paleta de cores interativa de forma harmonizar o front
+- [Colors and Fonts](https://www.colorsandfonts.com/) - Apresenta paletas de cores e tipografia
 - [Font Flipper](https://fontflipper.com/) - Ferramenta para testar fontes
 - [FontPair](https://fontpair.co/) - Ferramenta para combinações de fontes
 - [FontSpark](https://fontspark.app/) - Gera fontes aleatórias de uma lista de fontes famosas usadas na web
+- [fontJoy](https://fontjoy.com/) - geador de fonts relacionadas
 - [Foundation](https://foundation.zurb.com/) - Framework responsivo
 - [Framer](https://www.framer.com/) - Ferramenta de criação de interfaces interativas
 - [FreeFrontEnd](https://freefrontend.com/) - Exemplos de códigos, tutoriais e artigos de HTML, CSS, Javascript (Angular, JQuery, React, Vue)
@@ -288,6 +289,7 @@
 > ◾ Sites para baixar e encontrar fontes
 
 - [Adobe Fonts](https://fonts.adobe.com/)
+- [fontJoy](https://fontjoy.com/) - geador de fonts relacionadas
 - [Google fonts](https://fonts.google.com/)
 - [Dafont](https://www.dafont.com/pt/)
 - [NetFontes](https://www.netfontes.com.br/)
