@@ -289,7 +289,7 @@
 > ◾ Sites para baixar e encontrar fontes
 
 - [Adobe Fonts](https://fonts.adobe.com/)
-- [fontJoy](https://fontjoy.com/) - geador de fonts relacionadas
+- [fontJoy](https://fontjoy.com/)
 - [Google fonts](https://fonts.google.com/)
 - [Dafont](https://www.dafont.com/pt/)
 - [NetFontes](https://www.netfontes.com.br/)
