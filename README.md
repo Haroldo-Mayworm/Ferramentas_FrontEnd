@@ -68,8 +68,9 @@
 - [JSON Generator](https://app.json-generator.com/) - Ferramenta para gerar JSON com base em template
 - [CSS W3.org](https://jigsaw.w3.org/css-validator/) - Validar CSS
 - [Autoprefixer CSS](http://autoprefixer.github.io/) - Transpile código CSS atual para código CSS com maior cobertura de navegadores antigos
-- [CSS Formatter](https://www.cleancss.com/css-beautify/) - Retire a minificação e formate o código CSS
+- [Clean CSS](https://www.npmjs.com/package/clean-css-cli) - Minifica o CSS por linha de comando
 - [CSS Minifier](https://cssminifier.com/) - Conversor de código CSS para CSS minificado
+- [CSS Formatter](https://www.cleancss.com/css-beautify/) - Retire a minificação e formate o código CSS
 - [Hamburgers](https://jonsuh.com/hamburgers/) - Menu de hamburgers para utilizar em CSS
 - [Hover Effects](https://ianlunn.github.io/Hover/) - Hover effects para utilizar no CSS
 - [Can I use...](https://caniuse.com/) - Descubra se você pode usar determinadas tecnologias web
